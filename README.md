@@ -1,7 +1,7 @@
 Simple Node.js app
 ==================
 
-This is a minimal Node.js HTTP server.
+This is a minimal Node.js HTTP server...
 
 Run:
 
